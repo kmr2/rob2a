@@ -1,5 +1,5 @@
 # Verkefni 5 
-## Linsensor linetracking 15% af lokaeinkunn
+## Linsensor linetracking 20% af lokaeinkunn
 Róbot á að fylgja línu sem er  sjá borð. Munið að setja neyðarofa á fjarstýringu og á vélmenni.
 Setjið upp línu-sensora, þeir eru 3, notið sample program- Line followe Triple Sensor line tracking til að koma ykkur af stað og UltraSonic  Range Modul. Lesið vel  og kynnið ykkur efni þessa síðu : http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_cortex_v2/?_ga=1.245411399.2101105766.1426592875
 lesið vel allt um Sensing- Line Tracking .
