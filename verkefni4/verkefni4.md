@@ -6,4 +6,4 @@ Gerið flæðiritið í http://draw.io þegar búið farið í  File-export as -
 Skilið video af vélmenni leysa allar þrautinar setjið á YouTube og skilið slóð á videóið í Innu
 Skilið sauðakóða og flæðiriti https://www.draw.io/
 Skoðið vel: Sample Program- light Sensor og Ultrasonic Range Module
-Notið heimasíðu okkar og lesið vel allt efni hér: http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_cortex_v2/?_ga=1.245411399.2101105766.1426592875
+Notið heimasíðu okkar og lesið vel allt efni hér: http://www.education.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_cortex_v2
