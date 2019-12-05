@@ -1,4 +1,4 @@
-# Keyra án þess að rekast á 10% SÓNAR
+# Keyra án þess að rekast á 15% Sónar og lightsensor
 
 Forritið vélmennið þannig að hann geti keyrt  endalaust um svæði án þess að rekast á aðra hluti, notið sónar og light sensor.  Forritið einnig lightsensor þannig að vélmennið fari af stað þegar ljós í stofu eru kveikt og stoppi ef slökkt.
 Hér eftir skulu öll verkefni vera þannig að hægt sé að stöðva vélmenni með því að þrýsta á einhvern takka á fjarstýringu og vá vélmenni.
