@@ -13,8 +13,8 @@
 task main()
 {
 
-	StartTask(one,7);
-	//StartTask(two);
+	StartTask(one);
+	StartTask(two);
 	//StartTask(three);
 	//StartTask(four);
 

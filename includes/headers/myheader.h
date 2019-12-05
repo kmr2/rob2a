@@ -8,5 +8,8 @@ note that you have to find out your own constants these are not correct
 #define BASETIME 1500
 #define BASEDIST 750 // find out? calcuate
 #define FULLPOWER 127
+const short leftButton = 1;
+const short centerButton = 2;
+const short rightButton = 4;
 
 void drive_time(int drive_time,bool b_f);
