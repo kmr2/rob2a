@@ -1,0 +1,10 @@
+port 2 rm
+port 3 lm
+
+r encoder digital 1&2
+l encoder digital 3&4
+sonar 5&6
+
+light censor analog 1
+line follower analog 2&3&4
+potentiometer analog 5
